@@ -27,6 +27,6 @@ function _draw()
 
 	-- Stamp and rect test
 	rect()
-	stamp(1, 8, draw_x, half_y)
+	stamp(2, 1, draw_x, half_y)
 
 end
